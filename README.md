@@ -56,3 +56,6 @@ https://color.adobe.com/create/color-wheel/
 
 Chroma.js Color Scale Helper
 http://gka.github.io/palettes/#colors=#2df,#f07|steps=7|bez=1|coL=1
+
+Material Colors for Mac (App)
+https://github.com/romannurik/MaterialColorsApp
