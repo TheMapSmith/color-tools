@@ -59,3 +59,5 @@ http://gka.github.io/palettes/#colors=#2df,#f07|steps=7|bez=1|coL=1
 
 Material Colors for Mac (App)
 https://github.com/romannurik/MaterialColorsApp
+
+[Gpick](http://www.gpick.org/) (Desktop application)
