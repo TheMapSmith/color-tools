@@ -68,3 +68,6 @@ http://colorcrush.cc/#/
 ##Guides:##  
 vis4.net   
 https://vis4.net/blog/posts/mastering-multi-hued-color-scales/
+
+Extract Hex values from a website:  
+http://www.colorcombos.com/grabcolors.html
