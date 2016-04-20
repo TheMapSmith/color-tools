@@ -65,6 +65,9 @@ https://github.com/romannurik/MaterialColorsApp
 Color Crush.cc
 http://colorcrush.cc/#/
 
+Design Seeds  
+http://www.design-seeds.com/  
+
 ##Guides:##  
 vis4.net   
 https://vis4.net/blog/posts/mastering-multi-hued-color-scales/
