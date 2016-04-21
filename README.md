@@ -74,3 +74,6 @@ https://vis4.net/blog/posts/mastering-multi-hued-color-scales/
 
 Extract Hex values from a website:  
 http://www.colorcombos.com/grabcolors.html
+  
+Nathan Curtis - Color in Design Systems  
+https://medium.com/eightshapes-llc/color-in-design-systems-a1c80f65fa3#.5roo5owl9  
