@@ -71,6 +71,9 @@ http://www.design-seeds.com/
 color lisa  
 http://colorlisa.com/  
 
+Material Colors  
+http://www.materialui.co/colors  
+
 ##Guides:##  
 vis4.net   
 https://vis4.net/blog/posts/mastering-multi-hued-color-scales/
