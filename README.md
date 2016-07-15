@@ -73,7 +73,10 @@ http://colorlisa.com/
 
 Material Colors  
 http://www.materialui.co/colors  
-
+  
+Palletable  
+http://www.palettable.io/  
+  
 ##Guides:##  
 vis4.net   
 https://vis4.net/blog/posts/mastering-multi-hued-color-scales/
