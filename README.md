@@ -79,6 +79,9 @@ http://www.palettable.io/
 
 Color Drop  
 https://colordrop.io/  
+
+Colicious  
+http://colicious.ga/  
   
 ##Guides:##  
 vis4.net   
