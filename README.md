@@ -83,7 +83,6 @@ https://colordrop.io/
 Colicious  
 http://colicious.ga/  
   
-##Guides:##  
 vis4.net   
 https://vis4.net/blog/posts/mastering-multi-hued-color-scales/
 
@@ -92,3 +91,15 @@ http://www.colorcombos.com/grabcolors.html
   
 Nathan Curtis - Color in Design Systems  
 https://medium.com/eightshapes-llc/color-in-design-systems-a1c80f65fa3#.5roo5owl9  
+
+Contrast checker  
+http://jxnblk.com/colorable/demos/text/  
+
+Make websites black and white (chrome/ff extension) 
+http://www.unclrd.com/  
+
+sip mac app (mac app)   
+http://sipapp.io/
+
+color snapper (mac app)  
+http://colorsnapper.com/
