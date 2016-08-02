@@ -76,6 +76,9 @@ http://www.materialui.co/colors
   
 Palletable  
 http://www.palettable.io/  
+
+Color Drop  
+https://colordrop.io/  
   
 ##Guides:##  
 vis4.net   
