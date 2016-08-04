@@ -103,3 +103,6 @@ http://sipapp.io/
 
 color snapper (mac app)  
 http://colorsnapper.com/
+
+HTML Color Codes  
+http://htmlcolorcodes.com/color-picker/  
