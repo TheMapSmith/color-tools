@@ -106,3 +106,6 @@ http://colorsnapper.com/
 
 HTML Color Codes  
 http://htmlcolorcodes.com/color-picker/  
+
+Colors: A nicer color palette for the web.
+http://clrs.cc & http://clrs.cc/#a11y
