@@ -107,5 +107,11 @@ http://colorsnapper.com/
 HTML Color Codes  
 http://htmlcolorcodes.com/color-picker/  
 
-Colors: A nicer color palette for the web.
-http://clrs.cc & http://clrs.cc/#a11y
+Colors: A nicer color palette for the web.  
+http://clrs.cc & http://clrs.cc/#a11y  
+  
+Cool CSS gradients  
+http://mrmrs.io/gradients/  
+  
+Shade - gradient explorer  
+http://jxnblk.com/shade/  
