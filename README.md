@@ -115,3 +115,6 @@ http://mrmrs.io/gradients/
   
 Shade - gradient explorer  
 http://jxnblk.com/shade/  
+
+Contrast checker:  
+https://leaverou.github.io/contrast-ratio/#  
