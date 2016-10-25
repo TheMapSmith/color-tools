@@ -118,3 +118,6 @@ http://jxnblk.com/shade/
 
 Contrast checker:  
 https://leaverou.github.io/contrast-ratio/#  
+
+Color oracle: OSX toolbar plugin by Bernhard Jenny and Nathaniel Kelso
+http://colororacle.org/
