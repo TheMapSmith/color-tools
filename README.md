@@ -121,3 +121,6 @@ https://leaverou.github.io/contrast-ratio/#
 
 Color oracle: OSX toolbar plugin by Bernhard Jenny and Nathaniel Kelso
 http://colororacle.org/
+
+I Want Hue  
+http://tools.medialab.sciences-po.fr/iwanthue/
