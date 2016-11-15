@@ -124,3 +124,6 @@ http://colororacle.org/
 
 I Want Hue  
 http://tools.medialab.sciences-po.fr/iwanthue/
+
+Color Hex - converts between color definitions  
+http://www.color-hex.com/  
