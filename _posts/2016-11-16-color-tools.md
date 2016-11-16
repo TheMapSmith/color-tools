@@ -4,7 +4,7 @@ title:  "Colour Tools!"
 date:   2016-11-16 13:54:07 -0500
 categories: color
 ---
-# color-tools
+
 A listing of color tools for cartography and design
 
 _(In no particular order)_
@@ -92,6 +92,8 @@ _(In no particular order)_
 [Color oracle: OSX toolbar plugin by Bernhard Jenny and Nathaniel Kelso] (http://colororacle.org/)
 
 [I Want Hue] (http://tools.medialab.sciences-po.fr/iwanthue/)
+
+[How Van Schneider Finds his Color Pairings] (http://www.vanschneider.com/how-i-find-my-perfect-color-pairings/)
 
 [Color Hex - converts between color definitions] (http://www.color-hex.com/  )
 

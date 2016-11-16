@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Portfolio Articles"
+title:  "Icon Collections"
 date:   2016-11-16 13:54:07 -0500
 categories: design
 ---
