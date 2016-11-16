@@ -9,128 +9,89 @@ A listing of color tools for cartography and design
 
 _(In no particular order)_
 
-LOL Colors - Curated color palette inspiration
-http://www.lolcolors.com/
+[LOL Colors - Curated color palette inspiration] (http://www.lolcolors.com/)
 
-Color Hex - ColorHexa.com
-http://www.colorhexa.com/
+[Cool Gradients!] (http://uigradients.com/#Disco)
 
-HTML Color Mixer
-http://www.w3schools.com/colors/colors_mixer.asp
+[Color Hex - ColorHexa.com] (http://www.colorhexa.com/)
 
-A Simple Trick For Creating Color Palettes Quickly — Sketch Tricks — Medium
-https://medium.com/sketch-tricks/a-simple-trick-for-creating-color-palettes-quickly-8ba0fcbb7023#.cb3sfgamy
+[HTML Color Mixer] (http://www.w3schools.com/colors/colors_mixer.asp)
 
-Coolors - The super fast color schemes generator!
-https://coolors.co/app/0d0630-18314f-384e77-8bbeb2-e6f9af
+[A Simple Trick For Creating Color Palettes Quickly — Sketch Tricks — Medium] (https://medium.com/)sketch-tricks/a-simple-trick-for-creating-color-palettes-quickly-8ba0fcbb7023#.cb3sfgamy
 
-UIPalette.net | UI colors, tools & trends all in one place.
-http://www.uipalette.net/?ref=producthunt
+[Coolors - The super fast color schemes generator!] (https://coolors.co/app/)0d0630-18314f-384e77-8bbeb2-e6f9af
 
-PixelFor.me | Color Ramp Creator
-http://www.pixelfor.me/crc/F0001532
+[UIPalette.net | UI colors, tools & trends all in one place.] (http://)www.uipalette.net/?ref=producthunt
 
-Colorblinding • lab • leocardz.com
-http://lab.leocardz.com/colorblinding/
+[PixelFor.me | Color Ramp Creator] (http://www.pixelfor.me/crc/F0001532)
 
-ColorPick Eyedropper - Chrome Web Store
-https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg
+[Colorblinding • lab • leocardz.com] (http://lab.leocardz.com/colorblinding/)
 
-chill color picker
-http://cathydeng.github.io/chill-color-picker/
+[ColorPick Eyedropper - Chrome Web Store] (https://chrome.google.com/webstore/detail/)colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg
 
-Flat Colors - Get inspiration!
-http://www.calltoidea.com/p-flat.php
+[chill color picker] (http://cathydeng.github.io/chill-color-picker/)
 
-Color Palette Generator
-http://www.degraeve.com/color-palette/
+[Flat Colors - Get inspiration!] (http://www.calltoidea.com/p-flat.php)
 
-Color Hunt
-http://colorhunt.co/
+[Color Palette Generator] (http://www.degraeve.com/color-palette/)
 
-Sequential color scheme generator
-http://www.eyetracking.upol.cz/color/
+[Color Hunt] (http://colorhunt.co/)
 
-Colorpicker for data | tristen
-http://tristen.ca/hcl-picker/#/hlc/6/1/21313E/EFEE69
+[Sequential color scheme generator] (http://www.eyetracking.upol.cz/color/)
 
-Color Tool
-http://colorusage.arc.nasa.gov/ColorTool.php
+[Colorpicker for data | tristen] (http://tristen.ca/hcl-picker/#/hlc/6/1/21313E/EFEE69)
 
-Color wheel | Color schemes - Adobe Color CC
-https://color.adobe.com/create/color-wheel/
+[Color Tool] (http://colorusage.arc.nasa.gov/ColorTool.php)
 
-Chroma.js Color Scale Helper
-http://gka.github.io/palettes/#colors=#2df,#f07|steps=7|bez=1|coL=1
+[Color wheel | Color schemes - Adobe Color CC] (https://color.adobe.com/create/color-wheel/)
 
-Material Colors for Mac (App)
-https://github.com/romannurik/MaterialColorsApp
+[Chroma.js Color Scale Helper] (http://gka.github.io/palettes/#colors=#2df,#f07|steps=7|bez=1|coL=1)
+
+[Material Colors for Mac (App)] (https://github.com/romannurik/MaterialColorsApp)
 
 [Gpick](http://www.gpick.org/) (Desktop application)
 
-Color Crush.cc
-http://colorcrush.cc/#/
+[Color Crush.cc] (http://colorcrush.cc/#/)
 
-Design Seeds  
-http://www.design-seeds.com/  
+[Design Seeds] (http://www.design-seeds.com/)
 
-color lisa  
-http://colorlisa.com/  
+[color lisa] (http://colorlisa.com/)
 
-Material Colors  
-http://www.materialui.co/colors  
+[Material Colors] (http://www.materialui.co/colors)
   
-Palletable  
-http://www.palettable.io/  
+[Palletable] (http://www.palettable.io/)
 
-Color Drop  
-https://colordrop.io/  
+[Color Drop] (https://colordrop.io/)
 
-Colicious  
-http://colicious.ga/  
+[Colicious] (http://colicious.ga/)
   
-vis4.net   
-https://vis4.net/blog/posts/mastering-multi-hued-color-scales/
+[vis4.net] (https://vis4.net/blog/posts/mastering-multi-hued-color-scales/)
 
-Extract Hex values from a website:  
-http://www.colorcombos.com/grabcolors.html
+[Extract Hex values from a website:] (http://www.colorcombos.com/grabcolors.html)
   
-Nathan Curtis - Color in Design Systems  
-https://medium.com/eightshapes-llc/color-in-design-systems-a1c80f65fa3#.5roo5owl9  
+[Nathan Curtis - Color in Design Systems] (https://medium.com/eightshapes-llc/color-in-design-systems-a1c80f65fa3#.5roo5owl9)
 
-Contrast checker  
-http://jxnblk.com/colorable/demos/text/  
+[Contrast checker] (http://jxnblk.com/colorable/demos/text/)
 
-Make websites black and white (chrome/ff extension) 
-http://www.unclrd.com/  
+[Make websites black and white (chrome/ff extension) ] (http://www.unclrd.com/)
 
-sip mac app (mac app)   
-http://sipapp.io/
+[sip mac app (mac app)] (http://sipapp.io/)
 
-color snapper (mac app)  
-http://colorsnapper.com/
+[color snapper (mac app)] (http://colorsnapper.com/)
 
-HTML Color Codes  
-http://htmlcolorcodes.com/color-picker/  
+[HTML Color Codes] (http://htmlcolorcodes.com/color-picker/)
 
-Colors: A nicer color palette for the web.  
-http://clrs.cc & http://clrs.cc/#a11y  
+[Colors: A nicer color palette for the web.] (http://clrs.cc & http://clrs.cc/#a11y)
   
-Cool CSS gradients  
-http://mrmrs.io/gradients/  
+[Cool CSS gradients] (http://mrmrs.io/gradients/)
   
-Shade - gradient explorer  
-http://jxnblk.com/shade/  
+[Shade - gradient explorer] (http://jxnblk.com/shade/)
 
-Contrast checker:  
-https://leaverou.github.io/contrast-ratio/#  
+[Contrast checker] (https://leaverou.github.io/contrast-ratio/#)
 
-Color oracle: OSX toolbar plugin by Bernhard Jenny and Nathaniel Kelso
-http://colororacle.org/
+[Color oracle: OSX toolbar plugin by Bernhard Jenny and Nathaniel Kelso] (http://colororacle.org/)
 
-I Want Hue  
-http://tools.medialab.sciences-po.fr/iwanthue/
+[I Want Hue] (http://tools.medialab.sciences-po.fr/iwanthue/)
 
-Color Hex - converts between color definitions  
-http://www.color-hex.com/  
+[Color Hex - converts between color definitions] (http://www.color-hex.com/  )
 
