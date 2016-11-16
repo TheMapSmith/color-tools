@@ -97,3 +97,5 @@ _(In no particular order)_
 
 [Color Hex - converts between color definitions] (http://www.color-hex.com/  )
 
+[clrs.css - A Palette of Colors for the Web] (http://clrs.cc/)
+
