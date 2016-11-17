@@ -127,3 +127,6 @@ http://tools.medialab.sciences-po.fr/iwanthue/
 
 Color Hex - converts between color definitions  
 http://www.color-hex.com/  
+
+PhotoChrome - pick colors from Unsplash images  
+http://photochrome.io/
