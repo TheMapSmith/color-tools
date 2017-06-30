@@ -62,9 +62,6 @@ https://github.com/romannurik/MaterialColorsApp
 
 [Gpick](http://www.gpick.org/) (Desktop application)
 
-Color Crush.cc
-http://colorcrush.cc/#/
-
 Design Seeds  
 http://www.design-seeds.com/  
 
