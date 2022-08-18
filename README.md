@@ -9,6 +9,9 @@ http://www.lolcolors.com/
 Color Hex - ColorHexa.com
 http://www.colorhexa.com/
 
+HTML Tag For Background Color
+https://www.scaler.com/topics/html-tag-for-background-color/
+
 HTML Color Mixer
 http://www.w3schools.com/colors/colors_mixer.asp
 
